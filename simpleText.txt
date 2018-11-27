@@ -1,4 +1,4 @@
-Test
+Test. Changed again
 
 simpleText.txt - some text edited from a recent article on BBC News website.
 Just make some edits by filling in the ** (just make up some names/numbers etc.)
